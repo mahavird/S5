@@ -1,0 +1,19 @@
+
+### README.md
+Describes Training MNIST Project
+
+```markdown
+# MNIST Classification Project
+
+This project trains a convolutional neural network (CNN) on the MNIST dataset to recognize handwritten digits.
+
+## Project Structure
+
+- `model.py`: Contains the CNN model definition.
+- `utils.py`: Includes data loading and transformation utilities, along with the training and testing loops.
+- `S5.ipynb`: A Jupyter notebook that orchestrates the training and evaluation process.
+
+## Setup
+
+To run this project, ensure you have PyTorch and torchvision installed. You can install them using pip:
+
